@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategray;
+    background-image: url('https://wallpapercave.com/wp/wp6057151.jpg');
+    background-position-y:70% ;
+}
+.card{
+    background-image: linear-gradient(to right,#009999,#ff9933 );
+    color: white;
+    height:200px;
+    width: 80%;
+    margin-left: 10%;
+}
+.bloc1
+{
+    display: flex;
+    justify-content: center;
+}
